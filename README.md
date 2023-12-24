@@ -1,5 +1,5 @@
 # The CSV Reader
-In this notebook, you'll learn:
+In this repo, you'll learn:
 1. How to read files
 2. How to use the CSV reader
 
