@@ -3,7 +3,7 @@ In this repo, you'll learn:
 1. How to read files
 2. How to use the CSV reader
 
-There's no better way to learn this than by actually exploring a .csv file. I chose to explore the [2023 Data Scientists' Salaries](https://www.kaggle.com/datasets/henryshan/2023-data-scientists-salary). The dataset includes the following variables:
+There's no better way to learn this than by actually exploring a .csv file. I chose to explore the [2023 Data Scientists' Salaries](https://www.kaggle.com/datasets/henryshan/2023-data-scientists-salary) and conducted data analysis towards the end of the notebook. The dataset includes the following variables:
 
 ```work_year```:The year the salary was paid.
 
